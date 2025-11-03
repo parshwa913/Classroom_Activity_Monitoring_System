@@ -49,7 +49,8 @@ CAMS-root/
 │  ├─ Diagrams/
 │  ├─ Frontend/
 │  └─ Roboflow/
-├─ CAMS_model_v1.ipynb            # notebook for model exploration
+├─ v1_CAMS_model.ipynb            # notebook for model exploration
+├─ v2_CAMS_model.ipynb            # notebook for model exploration
 └─ README.md                      # (this file)
 ```
 
