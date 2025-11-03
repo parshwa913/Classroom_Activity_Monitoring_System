@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 2
+names: ['Attentive', 'Non-Attentive']
+
+roboflow:
+  workspace: purva-j5nk4
+  project: cams_-fab2a
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/purva-j5nk4/cams_-fab2a/dataset/2
